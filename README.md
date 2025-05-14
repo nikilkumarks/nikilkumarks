@@ -32,22 +32,22 @@
 ### 📌 Featured Projects
 
 - 🔍 **Pokémon Explorer App** – Explore Pokémon using live API with React + Vite  
-  [`GitHub Repo`](https://github.com/yourusername/pokemon-explorer)
+  [`GitHub Repo`](https://github.com/nikilkumarks/pokemon-explorer)
 
 - 🛒 **E-commerce Website** – Full frontend project with product listing and cart  
-  [`GitHub Repo`](https://github.com/yourusername/ecommerce-site)
+  [`GitHub Repo`](https://github.com/nikilkumarks/ecommerce-site)
 
 - 🎵 **Music Website Clone** – Static clone using HTML, CSS, and JavaScript  
-  [`GitHub Repo`](https://github.com/yourusername/music-clone)
+  [`GitHub Repo`](https://github.com/nikilkumarks/music-clone)
 
 - ✅ **To-do List App** – JavaScript-based task manager with dynamic DOM updates  
-  [`GitHub Repo`](https://github.com/yourusername/todo-app)
+  [`GitHub Repo`](https://github.com/nikilkumarks/todo-app)
 
 - 🧮 **Calculator App** – Functional calculator using JavaScript  
-  [`GitHub Repo`](https://github.com/yourusername/calculator)
+  [`GitHub Repo`](https://github.com/nikilkumarks/calculator)
 
 - 🕵️‍♂️ **Crime Evidence Tracking System (WIP)** – Web app using PHP, MySQL, and JS  
-  [`GitHub Repo`](https://github.com/yourusername/crime-tracker)
+  [`GitHub Repo`](https://github.com/nikilkumarks/crime-tracker)
 
 ---
 
