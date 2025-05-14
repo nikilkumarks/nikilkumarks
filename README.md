@@ -1,13 +1,13 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm NIKIL KUMAR K S </h1>
 <h3 align="center">Frontend Web Developer | React Enthusiast | UI/UX Explorer</h3>
 
 <p align="center">
   🌱 I’m currently learning <strong>advanced React and PHP integrations</strong><br>
   💻 I love building <strong>responsive, user-friendly web apps</strong><br>
   🚀 Always exploring <strong>new technologies and improving UI/UX</strong><br>
-  📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a>
+  📫 How to reach me: <a href="mailto:your.nikilkumark.s19601@gmail.com">nikilkumark.s19601@gmail.com</a>
 </p>
 
 ---
@@ -67,7 +67,7 @@
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.nikilkumark.s19601@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
