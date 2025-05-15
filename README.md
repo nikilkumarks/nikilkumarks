@@ -35,19 +35,19 @@
   [`GitHub Repo`](https://github.com/nikilkumarks/PokeMon)
 
 - 🛒 **E-commerce Website** – Full frontend project with product listing and cart  
-  [`GitHub Repo`](https://github.com/nikilkumarks/ecommerce-site)
+  [`GitHub Repo`](https://github.com/nikilkumarks/E-Commerc)
 
 - 🎵 **Music Website Clone** – Static clone using HTML, CSS, and JavaScript  
-  [`GitHub Repo`](https://github.com/nikilkumarks/music-clone)
+  [`GitHub Repo`](https://github.com/nikilkumarks/Heavenly_music)
 
 - ✅ **To-do List App** – JavaScript-based task manager with dynamic DOM updates  
-  [`GitHub Repo`](https://github.com/nikilkumarks/todo-app)
+  [`GitHub Repo`](https://github.com/nikilkumarks/Todo_List_)
 
 - 🧮 **Calculator App** – Functional calculator using JavaScript  
   [`GitHub Repo`](https://github.com/nikilkumarks/calculator)
 
 - 🕵️‍♂️ **Crime Evidence Tracking System (WIP)** – Web app using PHP, MySQL, and JS  
-  [`GitHub Repo`](https://github.com/nikilkumarks/crime-tracker)
+  [`GitHub Repo`](https://github.com/nikilkumarks/NammaSurakshaHackaton)
 
 ---
 
