@@ -43,9 +43,6 @@
 - ✅ **To-do List App** – JavaScript-based task manager with dynamic DOM updates  
   [`GitHub Repo`](https://github.com/nikilkumarks/Todo_List_)
 
-- 🧮 **Calculator App** – Functional calculator using JavaScript  
-  [`GitHub Repo`](https://github.com/nikilkumarks/calculator)
-
 - 🕵️‍♂️ **Crime Evidence Tracking System (WIP)** – Web app using PHP, MySQL, and JS  
   [`GitHub Repo`](https://github.com/nikilkumarks/NammaSurakshaHackaton)
 
