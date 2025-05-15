@@ -32,7 +32,7 @@
 ### 📌 Featured Projects
 
 - 🔍 **Pokémon Explorer App** – Explore Pokémon using live API with React + Vite  
-  [`GitHub Repo`](https://github.com/nikilkumarks/pokemon-explorer)
+  [`GitHub Repo`](https://github.com/nikilkumarks/PokeMon)
 
 - 🛒 **E-commerce Website** – Full frontend project with product listing and cart  
   [`GitHub Repo`](https://github.com/nikilkumarks/ecommerce-site)
