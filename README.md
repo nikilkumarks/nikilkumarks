@@ -7,24 +7,24 @@
   🌱 I’m currently learning <strong>advanced React and PHP integrations</strong><br>
   💻 I love building <strong>responsive, user-friendly web apps</strong><br>
   🚀 Always exploring <strong>new technologies and improving UI/UX</strong><br>
-  📫 How to reach me: <a href="mailto:nikilkumark.s19601@gmail.com">nikilkumark.s19601@gmail.com</a>
+  📫 How to reach me: <a href="mailto:your.nikilkumark.s19601@gmail.com">nikilkumark.s19601@gmail.com</a>
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools (Animated GIFs)
+### 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/nikilkumarks/your-repo/main/assets/gifs/html5.gif" alt="HTML5" width="120"/>
-  <img src="https://raw.githubusercontent.com/nikilkumarks/your-repo/main/assets/gifs/css3.gif" alt="CSS3" width="120"/>
-  <img src="https://raw.githubusercontent.com/nikilkumarks/your-repo/main/assets/gifs/javascript.gif" alt="JavaScript" width="120"/>
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="React" width="120"/>
-  <img src="https://raw.githubusercontent.com/nikilkumarks/your-repo/main/assets/gifs/vite.gif" alt="Vite" width="120"/>
-  <img src="https://raw.githubusercontent.com/nikilkumarks/your-repo/main/assets/gifs/tailwind.gif" alt="Tailwind CSS" width="120"/>
-  <img src="https://raw.githubusercontent.com/nikilkumarks/your-repo/main/assets/gifs/php.gif" alt="PHP" width="120"/>
-  <img src="https://raw.githubusercontent.com/nikilkumarks/your-repo/main/assets/gifs/mysql.gif" alt="MySQL" width="120"/>
-  <img src="https://raw.githubusercontent.com/nikilkumarks/your-repo/main/assets/gifs/git.gif" alt="Git" width="120"/>
-  <img src="https://raw.githubusercontent.com/nikilkumarks/your-repo/main/assets/gifs/vscode.gif" alt="VSCode" width="120"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -51,9 +51,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikilkumarks&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikilkumarks&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikilkumarks&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikilkumarks&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -62,12 +62,12 @@
 
 <p>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nikilkumark.s19601@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wondrous-lolly-28fa46.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white" />
   </a>
 </p>
