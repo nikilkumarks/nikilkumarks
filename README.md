@@ -73,7 +73,7 @@
 </p>
 
 ---
-
+```
 <style>
 @keyframes wave {
   0% { transform: rotate( 0.0deg) }
@@ -91,3 +91,4 @@ span[style*="animation: wave"] {
   animation: wave 2s infinite;
 }
 </style>
+```
