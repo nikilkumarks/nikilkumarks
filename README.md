@@ -61,7 +61,7 @@
 ### 🔗 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/nikil-kumar-k-s-90434a2b1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nikilkumark.s19601@gmail.com">
