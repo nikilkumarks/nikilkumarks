@@ -1,22 +1,33 @@
-<!-- GitHub Profile README -->
+<!-- Advanced GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Nikil Kumar K S</h1>
-<h3 align="center">Frontend Web Developer • React Enthusiast • UI/UX Explorer</h3>
 
 <p align="center">
-  <a href="mailto:nikilkumark.s19601@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/nikil-kumar-k-s-90434a2b1" target="_blank">💼 LinkedIn</a> •
-  <a href="https://wondrous-lolly-28fa46.netlify.app/" target="_blank">🌐 Portfolio</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+Enthusiast;UI%2FUX+Explorer;Building+Modern+Web+Apps" />
+</p>
+
+<p align="center">
+  <a href="mailto:nikilkumark.s19601@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikil-kumar-k-s-90434a2b1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wondrous-lolly-28fa46.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nikilkumarks&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Advanced React & PHP integrations**
-- 💻 Passionate about building **responsive, scalable web applications**
-- 🎨 Strong focus on **UI/UX, animations, and clean design**
-- 🧠 Always improving **performance, code quality, and best practices**
+- 🌱 Learning **Advanced React, PHP & Full-Stack integrations**
+- 💻 Building **scalable, responsive & high-performance web apps**
+- 🎨 Strong interest in **UI/UX, animations & dark theme designs**
+- 🧠 Improving **DSA, system thinking & clean code practices**
+- 🎯 Goal: **High-impact Frontend / Full-Stack Developer**
 
 ---
 
@@ -24,20 +35,12 @@
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
 ### Backend & Tools
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=php,mysql,git,vscode" />
 </p>
 
 ---
@@ -45,63 +48,75 @@
 ## 📌 Featured Projects
 
 ### 🔍 Pokémon Explorer App
-- React + Vite application using live Pokémon API  
-- Search, filter, and detailed Pokémon views  
-🔗 **Repo:** https://github.com/nikilkumarks/PokeMon
+- React + Vite + API integration  
+- Search, filter & detail views  
+🔗 Repo → https://github.com/nikilkumarks/PokeMon
 
 ---
 
 ### 🛒 E-commerce Website
-- Product listing, cart functionality, responsive UI  
-- Built with modern frontend practices  
-🔗 **Repo:** https://github.com/nikilkumarks/E-Commerc
+- Product listing & cart flow  
+- Responsive UI & clean architecture  
+🔗 Repo → https://github.com/nikilkumarks/E-Commerc
 
 ---
 
 ### 🎵 Music Website Clone
-- Clean static clone using HTML, CSS & JavaScript  
-- Focused on layout and responsiveness  
-🔗 **Repo:** https://github.com/nikilkumarks/Heavenly_music
+- HTML, CSS & JavaScript  
+- Responsive static layout  
+🔗 Repo → https://github.com/nikilkumarks/Heavenly_music
 
 ---
 
 ### ✅ To-Do List App
-- JavaScript-based task manager  
-- Dynamic DOM updates & local interactions  
-🔗 **Repo:** https://github.com/nikilkumarks/Todo_List_
+- Vanilla JavaScript  
+- DOM manipulation & task management  
+🔗 Repo → https://github.com/nikilkumarks/Todo_List_
 
 ---
 
 ### 🕵️ Crime Evidence Tracking System (WIP)
-- PHP + MySQL based web application  
-- Secure evidence tracking & management  
-🔗 **Repo:** https://github.com/nikilkumarks/NammaSurakshaHackaton
+- PHP + MySQL + JavaScript  
+- Secure data handling & tracking  
+🔗 Repo → https://github.com/nikilkumarks/NammaSurakshaHackaton
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikilkumarks&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikilkumarks&layout=compact&theme=tokyonight" width="48%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikilkumarks&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikilkumarks&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikilkumarks&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikilkumarks&theme=tokyonight&row=1&no-frame=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikilkumarks&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/nikil-kumar-k-s-90434a2b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nikilkumark.s19601@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wondrous-lolly-28fa46.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white"/>
-  </a>
-</p>
+- 💼 LinkedIn → https://www.linkedin.com/in/nikil-kumar-k-s-90434a2b1  
+- 🌐 Portfolio → https://wondrous-lolly-28fa46.netlify.app/  
+- 📧 Email → nikilkumark.s19601@gmail.com  
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+⭐ *If you like my work, don’t forget to star ⭐ my repositories!*
