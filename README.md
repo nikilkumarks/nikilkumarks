@@ -85,21 +85,26 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikilkumarks&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikilkumarks&theme=tokyonight"/>
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api?username=nikilkumarks&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikilkumarks&layout=compact&theme=tokyonight"/>
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikilkumarks&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikilkumarks&theme=tokyonight&row=1&no-frame=true"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=nikilkumarks&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" 
+  />
 </p>
+
 
 ---
 
