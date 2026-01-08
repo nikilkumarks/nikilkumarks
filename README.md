@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/nikil-kumar-k-s-90434a2b1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wondrous-lolly-28fa46.netlify.app/" target="_blank">
+  <a href="https://nikilkumar.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=nikilkumarks&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -114,7 +114,7 @@
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn → https://www.linkedin.com/in/nikil-kumar-k-s-90434a2b1  
-- 🌐 Portfolio → https://wondrous-lolly-28fa46.netlify.app/  
+- 🌐 Portfolio → https://nikilkumar.netlify.app/  
 - 📧 Email → nikilkumark.s19601@gmail.com  
 
 ---
