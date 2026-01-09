@@ -1,9 +1,9 @@
-<!-- Advanced GitHub Profile README -->
+<!-- Advanced Full-Stack GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Nikil Kumar K S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+Enthusiast;UI%2FUX+Explorer;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Express;UI%2FUX+Focused+Engineer;Building+Scalable+Web+Apps" />
 </p>
 
 <p align="center">
@@ -23,61 +23,75 @@
 
 ## 🚀 About Me
 
-- 🌱 Learning **Advanced React, PHP & Full-Stack integrations**
-- 💻 Building **scalable, responsive & high-performance web apps**
-- 🎨 Strong interest in **UI/UX, animations & dark theme designs**
-- 🧠 Improving **DSA, system thinking & clean code practices**
-- 🎯 Goal: **High-impact Frontend / Full-Stack Developer**
+- 💻 **Full-Stack Web Developer** with strong Frontend expertise
+- ⚛️ Building modern apps using **React, Tailwind & Vite**
+- 🧠 Backend experience with **Node.js, Express & PHP**
+- 🗄️ Databases: **MySQL & MongoDB**
+- 🎨 UI/UX focused with smooth animations & dark-theme design
+- 🎯 Goal: **Product-level Engineer / High-impact Developer**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
 
-### Backend & Tools
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔍 Pokémon Explorer App
-- React + Vite + API integration  
-- Search, filter & detail views  
+### 🔍 Pokémon Explorer App (Frontend)
+- React + Vite + Public API
+- Search, filter & detail views
+- Optimized UI & performance  
 🔗 Repo → https://github.com/nikilkumarks/PokeMon
 
 ---
 
-### 🛒 E-commerce Website
-- Product listing & cart flow  
-- Responsive UI & clean architecture  
+### 🛒 E-commerce Website (Frontend)
+- Product listing, cart flow
+- Responsive & reusable components  
 🔗 Repo → https://github.com/nikilkumarks/E-Commerc
 
 ---
 
 ### 🎵 Music Website Clone
-- HTML, CSS & JavaScript  
-- Responsive static layout  
+- HTML, CSS & JavaScript
+- Clean layout & responsive design  
 🔗 Repo → https://github.com/nikilkumarks/Heavenly_music
 
 ---
 
 ### ✅ To-Do List App
-- Vanilla JavaScript  
+- Vanilla JavaScript
 - DOM manipulation & task management  
 🔗 Repo → https://github.com/nikilkumarks/Todo_List_
 
 ---
 
-### 🕵️ Crime Evidence Tracking System (WIP)
-- PHP + MySQL + JavaScript  
-- Secure data handling & tracking  
+### 🕵️ Crime Evidence Tracking System (Full-Stack – WIP)
+- Frontend: HTML, CSS, JavaScript
+- Backend: **PHP**
+- Database: **MySQL**
+- Secure evidence & case management  
 🔗 Repo → https://github.com/nikilkumarks/NammaSurakshaHackaton
 
 ---
@@ -85,30 +99,24 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=nikilkumarks&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikilkumarks&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikilkumarks&layout=compact&theme=tokyonight&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikilkumarks&layout=compact&theme=tokyonight"/>
 </p>
-
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=nikilkumarks&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikilkumarks&theme=tokyonight&margin-w=10&no-bg=true"/>
 </p>
-
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikilkumarks&theme=tokyo-night"/>
@@ -124,4 +132,4 @@
 
 ---
 
-⭐ *If you like my work, don’t forget to star ⭐ my repositories!*
+⭐ *If you like my work, consider starring ⭐ my repositories!*
