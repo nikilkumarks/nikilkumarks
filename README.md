@@ -1,9 +1,9 @@
-<!-- Advanced Full-Stack GitHub Profile README -->
+<!-- Enhanced Full-Stack GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Nikil Kumar K S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Express;UI%2FUX+Focused+Engineer;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend+%7C+Frontend+%7C+Real-Time+Systems;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
@@ -23,12 +23,12 @@
 
 ## 🚀 About Me
 
-- 💻 **Full-Stack Web Developer** with strong Frontend expertise
-- ⚛️ Building modern apps using **React, Tailwind & Vite**
-- 🧠 Backend experience with **Node.js, Express & PHP**
-- 🗄️ Databases: **MySQL & MongoDB**
-- 🎨 UI/UX focused with smooth animations & dark-theme design
-- 🎯 Goal: **Product-level Engineer / High-impact Developer**
+- 💻 **Full-Stack Web Developer** with strong backend-first thinking  
+- ⚛️ Building scalable applications using **React, Node.js & Express**
+- 🔐 Hands-on experience with **JWT authentication & protected routes**
+- 🗄️ Strong database fundamentals with **MongoDB & MySQL**
+- ⚡ Built **production-ready real-time systems**
+- 🎯 Career Goal: **Product-based company / Core engineering roles**
 
 ---
 
@@ -56,63 +56,60 @@
 
 ---
 
-## 📌 Featured Projects
+## ⭐ Flagship Project
+
+### 💬 STEM — Real-Time Chat Application (Full Stack)
+**Production-ready real-time communication platform**
+
+- MERN Stack (React, Node.js, Express, MongoDB)
+- Secure authentication using **JWT**
+- One-to-one real-time messaging
+- Typing indicators, read receipts & emoji reactions
+- Online / offline presence tracking
+- Friend requests & onboarding flow
+- One-to-one video calling
+- Clean REST APIs & optimized database design
+- Fully deployed & live  
+
+🔗 **Repository** → https://github.com/nikilkumarks/stem  
+🌐 **Live Demo** → https://stem-o0zn.onrender.com/
+
+---
+
+## 📌 Other Projects
 
 ### 🔍 Pokémon Explorer App (Frontend)
 - React + Vite + Public API
-- Search, filter & detail views
-- Optimized UI & performance  
+- Search, filter & detailed views
+- Performance-optimized UI  
+
 🔗 Repo → https://github.com/nikilkumarks/PokeMon
 
 ---
 
 ### 🛒 E-commerce Website (Frontend)
-- Product listing, cart flow
-- Responsive & reusable components  
+- Product listing & cart flow
+- Reusable components & responsive design  
+
 🔗 Repo → https://github.com/nikilkumarks/E-Commerc
 
 ---
 
 ### 🎵 Music Website Clone
 - HTML, CSS & JavaScript
-- Clean layout & responsive design  
+- Clean layout with responsive design  
+
 🔗 Repo → https://github.com/nikilkumarks/Heavenly_music
 
 ---
 
-### ✅ To-Do List App
-- Vanilla JavaScript
-- DOM manipulation & task management  
-🔗 Repo → https://github.com/nikilkumarks/Todo_List_
-
----
-
-### 🕵️ Crime Evidence Tracking System (Full-Stack – WIP)
+### 🕵️ Crime Evidence Tracking System (Full Stack – WIP)
 - Frontend: HTML, CSS, JavaScript
-- Backend: **PHP**
-- Database: **MySQL**
-- Secure evidence & case management  
+- Backend: PHP
+- Database: MySQL
+- Secure case & evidence management  
+
 🔗 Repo → https://github.com/nikilkumarks/NammaSurakshaHackaton
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikilkumarks&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikilkumarks&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikilkumarks&theme=tokyonight&margin-w=10&no-bg=true"/>
-</p>
 
 ---
 
@@ -132,4 +129,4 @@
 
 ---
 
-⭐ *If you like my work, consider starring ⭐ my repositories!*
+⭐ *If you find my work interesting, feel free to star ⭐ my repositories and connect!*
