@@ -74,6 +74,47 @@
 🔗 **Repository** → https://github.com/nikilkumarks/stem  
 🌐 **Live Demo** → https://stem-o0zn.onrender.com/
 
+🤖 AI-Powered ATS Resume Analyzer & Builder (Full Stack + AI)
+
+-SaaS-style resume optimization platform
+
+-React.js + Tailwind CSS modern UI
+
+-Node.js + Express REST APIs
+
+-MongoDB database architecture
+
+-Secure authentication with JWT & protected routes
+
+-Upload resume PDF → Extract text → Calculate ATS Match Score
+
+-Detects missing keywords from job description
+
+-Provides AI-powered resume improvement suggestions
+
+-“Enhance with AI” button to optimize:
+
+Summary
+
+Experience
+
+Skills
+
+Projects
+
+-Dynamic Resume Builder with templates
+
+-Resume download as PDF
+
+-User dashboard with scan history tracking
+
+-Admin dashboard to monitor users & scans
+
+-Backend deployed on Render
+
+🔗 Repository → https://github.com/nikilkumarks/ATS_Checker
+🌐 Live Demo → https://ats-checker-vbuy.onrender.com/
+
 ---
 
 ## 📌 Other Projects
