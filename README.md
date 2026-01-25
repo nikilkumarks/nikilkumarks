@@ -112,8 +112,9 @@ Projects
 
 -Backend deployed on Render
 
-🔗 Repository → https://github.com/nikilkumarks/ATS_Checker
-🌐 Live Demo → https://ats-checker-vbuy.onrender.com/
+🔗 **Repository** → https://github.com/nikilkumarks/ATS_Checker
+
+🌐 **Live Demo** → https://ats-checker-vbuy.onrender.com/
 
 ---
 
