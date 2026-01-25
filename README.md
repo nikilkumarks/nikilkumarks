@@ -74,7 +74,7 @@
 🔗 **Repository** → https://github.com/nikilkumarks/stem  
 🌐 **Live Demo** → https://stem-o0zn.onrender.com/
 
-🤖 AI-Powered ATS Resume Analyzer & Builder (Full Stack + AI)
+🤖 ATS CHECKER — Powered ATS Resume Analyzer & Builder (Full Stack + AI)
 
 -SaaS-style resume optimization platform
 
