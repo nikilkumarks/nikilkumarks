@@ -1,9 +1,7 @@
-<!-- Enhanced Full-Stack GitHub Profile README -->
-
 <h1 align="center">Hi 👋, I'm Nikil Kumar K S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend+%7C+Frontend+%7C+Real-Time+Systems;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Real-Time+Application+Builder;Backend+Focused+Frontend+Specialist" />
 </p>
 
 <p align="center">
@@ -16,19 +14,29 @@
   <a href="https://nikilkumar.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nikilkumarks&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Full-Stack Web Developer** with strong backend-first thinking  
-- ⚛️ Building scalable applications using **React, Node.js & Express**
-- 🔐 Hands-on experience with **JWT authentication & protected routes**
-- 🗄️ Strong database fundamentals with **MongoDB & MySQL**
-- ⚡ Built **production-ready real-time systems**
-- 🎯 Career Goal: **Product-based company / Core engineering roles**
+💻 Full-Stack Developer who thinks like a **backend engineer** and builds like a **frontend specialist**  
+⚛️ Specialized in **MERN stack** & real-time systems  
+🔐 Strong in **Authentication, APIs, and Secure Architecture**  
+🗄️ Databases: **MongoDB + MySQL (optimized schemas & queries)**  
+⚡ Love building **production-ready, scalable web apps**  
+🎯 Targeting **product-based companies & core engineering roles**
+
+---
+
+## 💡 What I Bring to a Team
+
+✔ Build complete products from scratch  
+✔ Clean REST API design  
+✔ Real-time system architecture  
+✔ Secure auth (JWT, protected routes)  
+✔ Performance-optimized UI  
+✔ Strong problem-solving mindset  
 
 ---
 
@@ -51,124 +59,73 @@
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel,render" />
 </p>
 
 ---
 
-## ⭐ Flagship Project
+# ⭐ Flagship Projects
 
-### 💬 STEM — Real-Time Chat Application (Full Stack)
-**Production-ready real-time communication platform**
+## 💬 STEM — Real-Time Chat Platform
+**Full-stack production-ready communication system**
 
-- MERN Stack (React, Node.js, Express, MongoDB)
-- Secure authentication using **JWT**
-- One-to-one real-time messaging
-- Typing indicators, read receipts & emoji reactions
-- Online / offline presence tracking
-- Friend requests & onboarding flow
-- One-to-one video calling
-- Clean REST APIs & optimized database design
-- Fully deployed & live  
+🔹 Built with MERN Stack  
+🔹 JWT authentication & secure APIs  
+🔹 Real-time messaging with Socket architecture  
+🔹 Typing indicators, read receipts, emoji reactions  
+🔹 Presence tracking (online/offline)  
+🔹 Friend system + onboarding flow  
+🔹 One-to-one video calling  
+🔹 Deployed and live  
 
-🔗 **Repository** → https://github.com/nikilkumarks/stem  
-🌐 **Live Demo** → https://stem-o0zn.onrender.com/
-
-🤖 ATS CHECKER — Powered ATS Resume Analyzer & Builder (Full Stack + AI)
-
--SaaS-style resume optimization platform
-
--React.js + Tailwind CSS modern UI
-
--Node.js + Express REST APIs
-
--MongoDB database architecture
-
--Secure authentication with JWT & protected routes
-
--Upload resume PDF → Extract text → Calculate ATS Match Score
-
--Detects missing keywords from job description
-
--Provides AI-powered resume improvement suggestions
-
--“Enhance with AI” button to optimize:
-
-Summary
-
-Experience
-
-Skills
-
-Projects
-
--Dynamic Resume Builder with templates
-
--Resume download as PDF
-
--User dashboard with scan history tracking
-
--Admin dashboard to monitor users & scans
-
--Backend deployed on Render
-
-🔗 **Repository** → https://github.com/nikilkumarks/ATS_Checker
-
-🌐 **Live Demo** → https://ats-checker-vbuy.onrender.com/
+🔗 Repo → https://github.com/nikilkumarks/stem  
+🌐 Live → https://stem-o0zn.onrender.com/
 
 ---
 
-## 📌 Other Projects
+## 🤖 ATS CHECKER — AI Resume Analyzer & Builder
+**SaaS-style resume optimization platform**
 
-### 🔍 Pokémon Explorer App (Frontend)
-- React + Vite + Public API
-- Search, filter & detailed views
-- Performance-optimized UI  
+🔹 Resume PDF parsing & ATS score calculation  
+🔹 Job description keyword matching  
+🔹 AI-based resume improvement suggestions  
+🔹 “Enhance with AI” for Summary, Skills, Projects, Experience  
+🔹 Resume builder with templates + PDF export  
+🔹 User dashboard with scan history  
+🔹 Admin dashboard for monitoring  
+🔹 MERN stack + deployed backend  
 
-🔗 Repo → https://github.com/nikilkumarks/PokeMon
-
----
-
-### 🛒 E-commerce Website (Frontend)
-- Product listing & cart flow
-- Reusable components & responsive design  
-
-🔗 Repo → https://github.com/nikilkumarks/E-Commerc
+🔗 Repo → https://github.com/nikilkumarks/ATS_Checker  
+🌐 Live → https://ats-checker-vbuy.onrender.com/
 
 ---
 
-### 🎵 Music Website Clone
-- HTML, CSS & JavaScript
-- Clean layout with responsive design  
+# 📌 Other Notable Projects
 
-🔗 Repo → https://github.com/nikilkumarks/Heavenly_music
+### 🔍 Pokémon Explorer App  
+React + Vite + API integration  
+🔗 https://github.com/nikilkumarks/PokeMon  
 
----
+### 🛒 E-Commerce Frontend  
+Cart flow + reusable components  
+🔗 https://github.com/nikilkumarks/E-Commerc  
 
-### 🕵️ Crime Evidence Tracking System (Full Stack – WIP)
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP
-- Database: MySQL
-- Secure case & evidence management  
+### 🎵 Music Website Clone  
+Responsive UI using core web tech  
+🔗 https://github.com/nikilkumarks/Heavenly_music  
 
-🔗 Repo → https://github.com/nikilkumarks/NammaSurakshaHackaton
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikilkumarks&theme=tokyo-night"/>
-</p>
+### 🕵️ Crime Evidence Tracking System (WIP)  
+Full-stack case & evidence management  
+🔗 https://github.com/nikilkumarks/NammaSurakshaHackaton  
 
 ---
 
-## 🤝 Let’s Connect
+## 📫 Let’s Connect
 
-- 💼 LinkedIn → https://www.linkedin.com/in/nikil-kumar-k-s-90434a2b1  
-- 🌐 Portfolio → https://nikilkumar.netlify.app/  
-- 📧 Email → nikilkumark.s19601@gmail.com  
+💼 LinkedIn → https://www.linkedin.com/in/nikil-kumar-k-s-90434a2b1  
+🌐 Portfolio → https://nikilkumar.netlify.app/  
+📧 Email → nikilkumark.s19601@gmail.com  
 
 ---
 
-⭐ *If you find my work interesting, feel free to star ⭐ my repositories and connect!*
+⭐ *Open to internships, collaborations, and full-time opportunities in full-stack & backend engineering.*
