@@ -128,7 +128,7 @@ Case & evidence management full-stack platform
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikilkumarks&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=nikilkumarks&theme=tokyonight" />
 </p>
 
 ---
