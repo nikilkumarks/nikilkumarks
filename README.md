@@ -137,7 +137,7 @@ Case & evidence management full-stack platform
 ## 📫 Let's Connect
 
 💼 LinkedIn → https://www.linkedin.com/in/nikil-kumar-k-s-90434a2b1  
-🌐 Portfolio → https://nikilkumar.netlify.app/  
+🌐 Portfolio → https://nikilkumarks.netlify.app/  
 📧 Email → nikilkumark.s19601@gmail.com  
 
 ---
