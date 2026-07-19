@@ -54,52 +54,80 @@ Current Focus:
 - 📫 Reach me: **nikilkumark.s19601@gmail.com**
 
 ---
+## 🛠️ Tech Stack
 
-# ⚡ Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java"/>
-</p>
-
-### Frontend
+### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 </p>
 
-### Backend
+---
+
+### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
 </p>
 
-### Database
+---
+
+### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
 </p>
 
-### Tools
+---
+
+### 🗄️ Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
-### AI / LLM
+---
+
+### 🛠️ Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</p>
+
+---
+
+### 🤖 AI / LLM
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Cohere_AI-39594C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-2E9EF7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Embeddings-111111?style=for-the-badge"/>
 
 </p>
 
