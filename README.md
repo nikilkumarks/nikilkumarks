@@ -41,7 +41,6 @@ Current Focus:
   - Next.js
   - AI & LLM Integration
   - Semantic Search
-  - RAG Applications
 ```
 
 - 💻 Full Stack Developer passionate about building scalable web applications
