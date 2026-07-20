@@ -49,7 +49,7 @@ Current Focus:
 - 🏆 Top 4 Hackathon Finalist + Two Top 30 Finishes
 - 🧩 Solved 130+ LeetCode Problems
 - 🔥 40+ Day GitHub Contribution Streak
-- 🌱 Exploring Agentic AI, Embeddings, Vector Search and RAG
+- 🌱 Exploring Agentic AI
 - 📫 Reach me: **nikilkumark.s19601@gmail.com**
 
 ---
